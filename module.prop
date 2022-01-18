@@ -1,0 +1,6 @@
+id=angelacool
+name=K30U-GSI补全计划
+version=v1.1
+versionCode=1
+author=安基拉酷@coolapk
+description=加入XiaomiParts至/system/priv-app以修复前者升降摄像头，加入K30U机型overlay以尝试修复自动调节亮度，修改设备机型为原机型
